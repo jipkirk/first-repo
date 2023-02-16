@@ -2,7 +2,6 @@
 
 ## updating
 
-cloning
+# cloning
 
-
-updating from remote
+# updating from remote
